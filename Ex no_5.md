@@ -13,8 +13,12 @@ To write a C program to calculate the total marks, average, and percentage of ma
 7. End.
 ## Program:
 ```
+/*
+Program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21).
+Developed by: BADIMALA GURUCHARAN 
+RegisterNumber:212223060026
+*/
 
- 
 #include <stdio.h> 
 int main() { 
     int sub1, sub2, sub3, total; 
