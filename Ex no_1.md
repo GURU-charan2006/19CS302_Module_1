@@ -13,6 +13,11 @@ To write a program to initialize the value as 5.8 & display the same.
 
 ## Program:
 ```
+/*
+Program to find number of years based on principle,rate & simple interest.
+Developed by: BADIMALA GURUCHARAN 
+RegisterNumber: 212223060026
+*/
 #include <stdio.h>
 int main()
 {
