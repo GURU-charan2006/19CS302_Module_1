@@ -21,6 +21,11 @@ To write a program to check whether the attendance is PRESENT using simple if st
 8.End.
 ## Program:
 ```
+/*
+Program to find number of years based on principle,rate & simple interest.
+Developed by: BADIMALA GURUCHARAN 
+RegisterNumber: 212223060026
+*/
 #include<stdio.h> 
 int main(){
 char p1; 
